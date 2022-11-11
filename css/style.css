@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-section{
+    height: 100vh;
+    background-color: grey;
+}
+
+
+.header{
+    height: 30vh;
+}
+
+
+.product-section{
+    min-height: 100vh;
+    max-height: fit-content;
+}
+
+
+.productContainer{
+    min-height: 100vh;
+    max-height: fit-content;
+}
+
+.productContainer .col-3 .card{
+    min-height: 45vh;
+    max-height: 60vh;
+
+}
